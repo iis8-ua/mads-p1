@@ -1,1 +1,1 @@
-https://hub.docker.com/repository/docker/israelizqdo9/spring-boot-demoapp/
+https://hub.docker.com/r/israelizqdo9/spring-boot-demoapp
